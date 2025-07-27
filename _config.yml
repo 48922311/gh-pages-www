@@ -112,7 +112,7 @@ just_the_docs:
       name: Just the Docs theme
       # Exclude the collection from the navigation
       # Supports true or false (default)
-      nav_exclude: true
+      # nav_exclude: true
       # Fold the collection in the navigation
       # Note: this option is new in v0.4
       # Supports true or false (default)
