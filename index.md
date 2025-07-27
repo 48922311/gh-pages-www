@@ -24,16 +24,13 @@ Welcome to this personal website – an independent, non-profit digital space wh
 ## My "Free-First" Journey: Built with Free Services
 This website stands out due to its "Free-First" philosophy. I've maximized the use of powerful, mostly free services - except for the domain name:
 
-- **Cloudflare**: For DNS management, site acceleration, and security, ensuring a smooth and safe user experience.
-
-- **GitHub Pages**: A robust, reliable, and free static hosting platform from GitHub, where the site's source code is hosted and deployed.
-
-- **Just the Docs Theme**: A theme specifically designed for documentation, providing a clean, professional, and easy-to-navigate interface to organize content efficiently.
-
-
 [Cloudflare](https://cloudflare.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [GitHub](https://pages.github.com){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Just the Docs](https://github.com/just-the-docs/){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 }
+
+- **Cloudflare**: For DNS management, site acceleration, and security, ensuring a smooth and safe user experience.
+- **GitHub Pages**: A robust, reliable, and free static hosting platform from GitHub, where the site's source code is hosted and deployed.
+- **Just the Docs Theme**: A theme specifically designed for documentation, providing a clean, professional, and easy-to-navigate interface to organize content efficiently.
 
 This combination not only saves costs but also demonstrates that a high-quality, flexible, and sustainable personal digital space can be built entirely with free resources.
 
