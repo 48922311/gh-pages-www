@@ -6,10 +6,10 @@ description: "0nline365 Homepage."
 permalink: /
 ---
 
-# Personal Digital Knowledge and Playground
+# Personal Digital Playground
 {: .fs-9 }
 
-*An independent personal project, leveraging the free ecosystem of **Cloudflare**, **GitHub Page**, and <ins>Just the Docs<ins> Jekyll theme.*
+_An independent personal project and habit, leveraging the free ecosystem of **Cloudflare**, **GitHub Page**, and <ins>Just the Docs<ins> Jekyll theme._
 {: .fw-300 }
 
 {: .warning }
