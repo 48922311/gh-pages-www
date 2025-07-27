@@ -10,7 +10,7 @@ permalink: /
 {: .fs-9 }
 
 _A dedicated space for **exploring**, **integrating**, and **optimizing** technology solutions._
-{: .fw-300 }
+{: .fw-300 .fs-3 }
 
 Welcome to [0nline365.net](https://www.0nline365.net/) website, a hub for my passion in technology. This platform is where I explore, experiment with, and integrate existing tech platforms and tools to meet personal requirements and interests, completely independent of any organizational affiliations
 
