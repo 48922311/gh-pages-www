@@ -109,7 +109,7 @@ just_the_docs:
     # Reference the "tests" collection
     theme_docs:
       # Give the collection a name
-      name: Github - Just the Docs theme
+      name: Just the Docs theme
       # Exclude the collection from the navigation
       # Supports true or false (default)
       # nav_exclude: true
@@ -118,4 +118,4 @@ just_the_docs:
       # nav_fold: true  # note: this option is new in v0.4
       # Exclude the collection from the search
       # Supports true or false (default)
-      # search_exclude: true
+        search_exclude: true
