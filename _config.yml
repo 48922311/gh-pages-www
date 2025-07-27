@@ -32,6 +32,18 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 
+# For copy button on code
+enable_copy_code_button: true
+
+
+# Mermaid diagram code blocks
+# Mermaid allows you to add diagrams and visualizations using Markdown code blocks
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "11.9.0"
+
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
@@ -60,12 +72,6 @@ search:
   button: false
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: 'k'
-
-
-mermaid:
-  # Version of mermaid library
-  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
-  version: "11.9.0"
 
 
 # Enable or disable the side/mobile menu globally
