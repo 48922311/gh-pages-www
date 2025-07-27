@@ -114,8 +114,9 @@ just_the_docs:
       # Supports true or false (default)
       # nav_exclude: true
       # Fold the collection in the navigation
+      # Note: this option is new in v0.4
       # Supports true or false (default)
-      # nav_fold: true  # note: this option is new in v0.4
+      nav_fold: true
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: true
