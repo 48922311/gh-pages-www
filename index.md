@@ -17,9 +17,9 @@ _An independent personal project and habit, leveraging the free ecosystem of **C
 ---
 # Welcome to My Digital Space
 
-Welcome to this personal website – an independent, non-profit digital space where I consolidate, organize, and share my knowledge, projects, and thoughts. This isn't a corporate or organizational site, but a personal "knowledge index" designed to optimize information management in the digital age.
+Welcome to [0nline365.net](https://www.0nline365.net/) website – an independent, non-profit digital space where I consolidate, organize, and share my knowledge, projects, and thoughts. This isn't a corporate or organizational site, but a personal "knowledge index" designed to optimize information management in the digital age.
 
-## My "Free-First" Journey: Built with Free Services
+## "Free-First" Journey: Built with Free Services
 This website stands out due to its "Free-First" philosophy. I've maximized the use of powerful, mostly free services - except for the domain name:
 
 [Cloudflare](https://cloudflare.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
