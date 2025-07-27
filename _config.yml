@@ -17,8 +17,6 @@ aux_links:
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
-# To add a button to switch all pages to a different scheme:
-toggle_color_scheme: light # This will enable a button to switch to the dark scheme
 
 
 # Aux links for the upper right navigation
