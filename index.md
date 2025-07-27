@@ -6,36 +6,46 @@ description: "0nline365 Homepage."
 permalink: /
 ---
 
-# Personal Tech. Playground
+# Personal Tech Hub
 {: .fs-9 }
 
-_An independent personal project and habit, leveraging the free ecosystem of **Cloudflare**, **GitHub Page**, and <ins>Just the Docs</ins> Jekyll theme._
+_A dedicated space for **exploring**, **integrating**, and **optimizing** technology solutions._
 {: .fw-300 }
 
+Welcome to [0nline365.net](https://www.0nline365.net/) website, a hub for my passion in technology. This platform is where I explore, experiment with, and integrate existing tech platforms and tools to meet personal requirements and interests, completely independent of any organizational affiliations
+
 {: .note }
-This website is solely for `individual`, __non-commercial__ use.
+This website is solely for `individual`, __non-commercial__.
 
 ---
-# Welcome to My Digital Space
+## My Tech Journey: Integration & Learning
 
-Welcome to [0nline365.net](https://www.0nline365.net/) website – an independent, non-profit digital space where I consolidate, organize, and share my knowledge, projects, and thoughts. This isn't a corporate or organizational site, but a personal "knowledge index" designed to optimize information management in the digital age.
+This site serves as my digital sandbox, focusing on:
+- **Platform Integration**: My primary focus is on **utilizing and integrating existing platforms, tools, and services** to create tailored solutions for personal needs.
+- **Online IT Service Exploration**: I actively test and connect advanced IT services like **Zero Trust, Load Balancing, and Cloud Computing**. The goal is to deeply understand their integrated functionality and optimize their use for personal applications.
+- **Learning New Technologies _(via Free-Tier)_**: Even with **free-tier, open-source offerings**, I proactively learn and apply new technologies and solutions by **integrating them into my personal workflows**. This continuous learning expands my expertise in the dynamic tech landscape.
 
-### "Free-First" Journey: Built with Free Services
-This website stands out due to its "Free-First" philosophy. I've maximized the use of powerful, mostly free services - except for the domain name:
 
-[Cloudflare](https://cloudflare.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[GitHub](https://pages.github.com){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Just the Docs](https://github.com/just-the-docs/){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 }
+## Optimizing with Free Resources
+_This website stands out due to its **"Free-First"** philosophy. I've maximized the use of powerful, mostly free services - except for the domain name._
+{: .fs-5 }
 
-- **Cloudflare**: For DNS management, site acceleration, and security, ensuring a smooth and safe user experience.
-- **GitHub Pages**: A robust, reliable, and free static hosting platform from GitHub, where the site's source code is hosted and deployed.
-- **Just the Docs Theme**: A theme specifically designed for documentation, providing a clean, professional, and easy-to-navigate interface to organize content efficiently.
+A key objective for this website and its associated projects is to maximize the utility of **free technology services and tools**. I strive to:
+- **Build Efficient Solutions through Integration**: Create stable and effective systems by intelligently connecting free platforms and tools.
+- **Flexible Integration for Personal Use**: Combine diverse services to forge cohesive solutions, addressing various personal objectives from data management to workflow automation, all without the need for specialized application development.
 
-This combination not only saves costs but also demonstrates that a high-quality, flexible, and sustainable personal digital space can be built entirely with free resources.
 
-### Purpose & Vision: A Personal Knowledge
+## Purpose & Vision: A Personal Knowledge
 The primary goal of this website is to create a comprehensive personal "index." Instead of scattering information across various platforms, I integrate everything into one central location. From personal notes, study materials, and project logs to shared articles, everything is logically arranged and easily accessible.
 
 ---
 
-_This is an ongoing experimental project where I explore and optimize how to leverage free technologies for personal needs, while sharing valuable insights and lessons learned along the way._
+[1] _This is an ongoing experimental project where I explore and optimize how to leverage free technologies for personal needs, while sharing valuable insights and lessons learned along the way._
+
+[2] _This website documents my journey of learning and developing system integration skills, and I hope it serves as an inspiration for fellow enthusiasts. Feel free to explore and discover something valuable here!_
+
+[3] _This website made possible by using: Cloudfare, Github and Just-the-Docs theme. This combination not only saves costs but also demonstrates that a high-quality, flexible, and sustainable personal digital space can be built entirely with free resources._
+
+[Cloudflare](https://cloudflare.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[GitHub](https://pages.github.com){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Just the Docs](https://github.com/just-the-docs/){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 }
