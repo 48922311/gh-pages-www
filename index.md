@@ -45,10 +45,13 @@ The primary goal of this website is to create a comprehensive personal "index." 
 
 ---
 [1] _This is an ongoing experimental project where I explore and optimize how to leverage free technologies for personal needs, while sharing valuable insights and lessons learned along the way._
+{: .fs-3 }
 
 [2] _This website documents my journey of learning and developing system integration skills, and I hope it serves as an inspiration for fellow enthusiasts. Feel free to explore and discover something valuable here!_
+{: .fs-3 }
 
 [3] _This website made possible by using: Cloudfare, Github and Just-the-Docs theme. This combination not only saves costs but also demonstrates that a high-quality, flexible, and sustainable personal digital space can be built entirely with free resources._
+{: .fs-3 }
 
 [Cloudflare](https://cloudflare.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [GitHub](https://pages.github.com){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
