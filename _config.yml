@@ -95,6 +95,14 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 
+# External navigation links
+nav_external_links:
+  - title: Cloudflare Zero Trust
+    url: https://0nline365.cloudflareaccess.com
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+
+
 # Define Jekyll collections
 # WARNING: Collection folders always start with an underscore (_), e.g. _tests. You won’t see your collections if you omit the prefix.
 collections:
