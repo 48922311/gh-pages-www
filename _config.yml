@@ -75,20 +75,6 @@ nav_enabled: true
 heading_anchors: true
 
 
-callouts:
-  warning:
-    title: Warning
-    color: red
-  highlight:
-    title: Highlight
-  important:
-    title: Important
-  new:
-    title: New
-  note:
-    title: Note
-
-
 # Footer content
 # appears at the bottom of every page's main content
 
