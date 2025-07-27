@@ -1,9 +1,10 @@
 ---
 title: Home
+nav_order: 1
 layout: home
 ---
 {: .note-title }
-> Note
+> Note:
 >
 > This site means for personal-use only
 
