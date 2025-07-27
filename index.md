@@ -6,7 +6,7 @@ description: "0nline365 Homepage."
 permalink: /
 ---
 
-# Personal Digital Playground
+# Personal Tech. Playground
 {: .fs-9 }
 
 _An independent personal project and habit, leveraging the free ecosystem of **Cloudflare**, **GitHub Page**, and <ins>Just the Docs</ins> Jekyll theme._
@@ -34,5 +34,7 @@ This combination not only saves costs but also demonstrates that a high-quality,
 
 ## Purpose & Vision: A Personal Knowledge
 The primary goal of this website is to create a comprehensive personal "index." Instead of scattering information across various platforms, I integrate everything into one central location. From personal notes, study materials, and project logs to shared articles, everything is logically arranged and easily accessible.
+
+---
 
 This is an ongoing experimental project where I explore and optimize how to leverage free technologies for personal needs, while sharing valuable insights and lessons learned along the way.
