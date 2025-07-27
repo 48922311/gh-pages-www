@@ -19,7 +19,7 @@ _An independent personal project and habit, leveraging the free ecosystem of **C
 
 Welcome to [0nline365.net](https://www.0nline365.net/) website – an independent, non-profit digital space where I consolidate, organize, and share my knowledge, projects, and thoughts. This isn't a corporate or organizational site, but a personal "knowledge index" designed to optimize information management in the digital age.
 
-## "Free-First" Journey: Built with Free Services
+### "Free-First" Journey: Built with Free Services
 This website stands out due to its "Free-First" philosophy. I've maximized the use of powerful, mostly free services - except for the domain name:
 
 [Cloudflare](https://cloudflare.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -32,7 +32,7 @@ This website stands out due to its "Free-First" philosophy. I've maximized the u
 
 This combination not only saves costs but also demonstrates that a high-quality, flexible, and sustainable personal digital space can be built entirely with free resources.
 
-## Purpose & Vision: A Personal Knowledge
+### Purpose & Vision: A Personal Knowledge
 The primary goal of this website is to create a comprehensive personal "index." Instead of scattering information across various platforms, I integrate everything into one central location. From personal notes, study materials, and project logs to shared articles, everything is logically arranged and easily accessible.
 
 ---
