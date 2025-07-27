@@ -13,7 +13,7 @@ _An independent personal project and habit, leveraging the free ecosystem of **C
 {: .fw-300 }
 
 {: .note }
-This website is solely for `individual`, __non-commercial__ use.
+> This website is solely for `individual`, __non-commercial__ use.
 
 ---
 # Welcome to My Digital Space
