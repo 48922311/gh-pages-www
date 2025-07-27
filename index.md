@@ -37,4 +37,4 @@ The primary goal of this website is to create a comprehensive personal "index." 
 
 ---
 
-This is an ongoing experimental project where I explore and optimize how to leverage free technologies for personal needs, while sharing valuable insights and lessons learned along the way.
+_This is an ongoing experimental project where I explore and optimize how to leverage free technologies for personal needs, while sharing valuable insights and lessons learned along the way._
