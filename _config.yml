@@ -98,8 +98,8 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Define Jekyll collections
 # WARNING: Collection folders always start with an underscore (_), e.g. _tests. You won’t see your collections if you omit the prefix.
 collections:
-  # Define a collection named "theme", its documents reside in the "_theme" directory
-  theme:
+  # Define a collection named "theme", its documents reside in the "_theme_docs" directory
+  theme_docs:
     permalink: "/:collection/:path/"
     output: true
 
@@ -107,9 +107,9 @@ just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
     # Reference the "tests" collection
-    theme:
+    theme_docs:
       # Give the collection a name
-      name: Theme - Just the Docs
+      name: Github - Just the Docs theme
       # Exclude the collection from the navigation
       # Supports true or false (default)
       # nav_exclude: true
