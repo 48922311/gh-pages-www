@@ -44,6 +44,24 @@ mermaid:
   version: "11.9.0"
 
 
+# Callout templates
+callouts:
+  warning:
+    title: Warning
+    color: red
+  highlight:
+    title: Highlight
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
