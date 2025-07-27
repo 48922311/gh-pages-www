@@ -5,16 +5,15 @@ nav_order: 1
 description: "0nline365 Homepage."
 permalink: /
 ---
-
 # Focus on writing good documentation
 {: .fs-9 }
 
-This website is powered by **Cloudflare** and **GitHub Pages**, with *Just the Docs* Jekyll theme.
-{: .fs-6 .fw-300 }
+This website is powered by **Cloudflare** and **GitHub Pages**, with <ins>*Just the Docs*</ins> Jekyll theme.
+{: .fw-300 }
 
 [Cloudflare](https://cloudflare.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [GitHub Page](https://pages.github.com){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Just the Docs - Theme](https://github.com/just-the-docs/){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
+[Just the Docs](https://github.com/just-the-docs/){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
