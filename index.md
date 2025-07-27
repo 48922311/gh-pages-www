@@ -17,7 +17,6 @@ permalink: /
 > 
 
 ---
-
 # Welcome to My Digital Space
 
 Welcome to this personal website – an independent, non-profit digital space where I consolidate, organize, and share my knowledge, projects, and thoughts. This isn't a corporate or organizational site, but a personal "knowledge index" designed to optimize information management in the digital age.
@@ -25,11 +24,12 @@ Welcome to this personal website – an independent, non-profit digital space wh
 ## My "Free-First" Journey: Built with Free Services
 This website stands out due to its "Free-First" philosophy. I've maximized the use of powerful, mostly free services - except for the domain name:
 
-[1] **Cloudflare**: For DNS management, site acceleration, and security, ensuring a smooth and safe user experience.
+- **Cloudflare**: For DNS management, site acceleration, and security, ensuring a smooth and safe user experience.
 
-[2] **GitHub Pages**: A robust, reliable, and free static hosting platform from GitHub, where the site's source code is hosted and deployed.
+- **GitHub Pages**: A robust, reliable, and free static hosting platform from GitHub, where the site's source code is hosted and deployed.
 
-[3] **Just the Docs Theme**: A theme specifically designed for documentation, providing a clean, professional, and easy-to-navigate interface to organize content efficiently.
+- **Just the Docs Theme**: A theme specifically designed for documentation, providing a clean, professional, and easy-to-navigate interface to organize content efficiently.
+
 
 [Cloudflare](https://cloudflare.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [GitHub](https://pages.github.com){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
