@@ -1,5 +1,5 @@
 ---
-title: Theme Tutorials
+title: Tutorials
 layout: home
 ---
 
