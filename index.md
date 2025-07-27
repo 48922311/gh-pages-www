@@ -25,21 +25,20 @@ This site serves as my digital sandbox, focusing on:
 - **Online IT Service Exploration**: I actively test and connect advanced IT services like **Zero Trust, Load Balancing, and Cloud Computing**. The goal is to deeply understand their integrated functionality and optimize their use for personal applications.
 - **Learning New Technologies _(via Free-Tier)_**: Even with **free-tier, open-source offerings**, I proactively learn and apply new technologies and solutions by **integrating them into my personal workflows**. This continuous learning expands my expertise in the dynamic tech landscape.
 
-
+---
 ## Optimizing with Free Resources
 _This website stands out due to its **"Free-First"** philosophy. I've maximized the use of powerful, mostly free services - except for the domain name._
-{: .fs-5 }
+{: .fs-4 }
 
 A key objective for this website and its associated projects is to maximize the utility of **free technology services and tools**. I strive to:
 - **Build Efficient Solutions through Integration**: Create stable and effective systems by intelligently connecting free platforms and tools.
 - **Flexible Integration for Personal Use**: Combine diverse services to forge cohesive solutions, addressing various personal objectives from data management to workflow automation, all without the need for specialized application development.
 
-
+---
 ## Purpose & Vision: A Personal Knowledge
 The primary goal of this website is to create a comprehensive personal "index." Instead of scattering information across various platforms, I integrate everything into one central location. From personal notes, study materials, and project logs to shared articles, everything is logically arranged and easily accessible.
 
 ---
-
 [1] _This is an ongoing experimental project where I explore and optimize how to leverage free technologies for personal needs, while sharing valuable insights and lessons learned along the way._
 
 [2] _This website documents my journey of learning and developing system integration skills, and I hope it serves as an inspiration for fellow enthusiasts. Feel free to explore and discover something valuable here!_
