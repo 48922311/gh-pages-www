@@ -19,6 +19,7 @@ This website is solely for `individual`, __non-commercial__.
 
 ---
 ## My Tech Journey: Integration & Learning
+{: .fs-6 }
 
 This site serves as my digital sandbox, focusing on:
 - **Platform Integration**: My primary focus is on **utilizing and integrating existing platforms, tools, and services** to create tailored solutions for personal needs.
@@ -27,8 +28,10 @@ This site serves as my digital sandbox, focusing on:
 
 ---
 ## Optimizing with Free Resources
+{: .fs-6 }
+
 _This website stands out due to its **"Free-First"** philosophy. I've maximized the use of powerful, mostly free services - except for the domain name._
-{: .fs-4 }
+{: .fs-3 }
 
 A key objective for this website and its associated projects is to maximize the utility of **free technology services and tools**. I strive to:
 - **Build Efficient Solutions through Integration**: Create stable and effective systems by intelligently connecting free platforms and tools.
@@ -36,6 +39,8 @@ A key objective for this website and its associated projects is to maximize the 
 
 ---
 ## Purpose & Vision: A Personal Knowledge
+{: .fs-6 }
+
 The primary goal of this website is to create a comprehensive personal "index." Instead of scattering information across various platforms, I integrate everything into one central location. From personal notes, study materials, and project logs to shared articles, everything is logically arranged and easily accessible.
 
 ---
