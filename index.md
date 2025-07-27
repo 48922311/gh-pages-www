@@ -12,7 +12,8 @@ permalink: /
 _An independent personal project and habit, leveraging the free ecosystem of **Cloudflare**, **GitHub Page**, and <ins>Just the Docs</ins> Jekyll theme._
 {: .fw-300 }
 
-{: .note } This website is solely for `individual`, __non-commercial__ use.
+{: .note }
+This website is solely for `individual`, __non-commercial__ use.
 
 ---
 # Welcome to My Digital Space
