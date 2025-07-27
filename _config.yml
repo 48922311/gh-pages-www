@@ -24,7 +24,7 @@ aux_links_new_tab: false
 
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+color_scheme: light
 
 
 # Back-to-Top at the bottom of each page
