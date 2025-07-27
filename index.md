@@ -1,27 +1,25 @@
 ---
 title: Home
-nav_order: 1
 layout: home
+nav_order: 1
+description: "0nline365 Homepage."
+permalink: /
 ---
 
 # Focus on writing good documentation
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+This website is powered by **Cloudflare** and **GitHub Pages**, with *Just the Docs* Jekyll theme.
 {: .fs-6 .fw-300 }
 
-Create with [Cloudflare](https://cloudflare.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-And [GitHub](https://pages.github.com){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Cloudflare](https://cloudflare.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[GitHub Page](https://pages.github.com){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Just the Docs - Theme](https://github.com/just-the-docs/){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
 {: .warning }
-> This website documents the features of the current `main` branch of the Just the Docs theme.
-
-{: .note-title }
-> Note:
->
-> This site means for personal-use only
+> This website is solely for `individual`, __non-commercial__ use.
 
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
