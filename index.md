@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-
+{: .note }
 {: .note-title }
 > Information
 >
