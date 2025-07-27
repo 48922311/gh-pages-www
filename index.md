@@ -23,7 +23,7 @@ This website is solely for `individual`, __non-commercial__.
 
 This site serves as my digital sandbox, focusing on:
 - **Platform Integration**: My primary focus is on **utilizing and integrating existing platforms, tools, and services** to create tailored solutions for personal needs.
-- **Online IT Service Exploration**: I actively test and connect advanced IT services like **Zero Trust, Load Balancing, and Cloud Computing**. The goal is to deeply understand their integrated functionality and optimize their use for personal applications.
+- **Online IT Service Exploration**: I actively test and connect advanced IT services like **Zero Trust, Cloud Computing, Hide-my-Email, etc**. The goal is to deeply understand their integrated functionality and optimize their use for personal applications.
 - **Learning New Technologies _(via Free-Tier)_**: Even with **free-tier, open-source offerings**, I proactively learn and apply new technologies and solutions by **integrating them into my personal workflows**. This continuous learning expands my expertise in the dynamic tech landscape.
 
 ---
