@@ -126,8 +126,12 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # External navigation links
 nav_external_links:
-  - title: Cloudflare Zero Trust
+  - title: Cloudflare Access
     url: https://0nline365.cloudflareaccess.com
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+  - title: KeeWeb
+    url: https://keeweb.0nline365.net
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
 
